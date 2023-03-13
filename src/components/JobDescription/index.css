@@ -1,0 +1,162 @@
+.bg-container-description {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.container-card-job {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  margin-left: 40px;
+}
+
+.bg-card-Container {
+  background-color: #272727;
+  width: 80%;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+.container-logo {
+  display: flex;
+}
+
+.container-title {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-rating {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.title {
+  color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+}
+
+.image-logo {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+
+.star {
+  color: #fbbf24;
+}
+
+.rating {
+  color: #ffffff;
+}
+
+.container-package {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.container-type-job {
+  display: flex;
+  align-items: center;
+  padding-left: 0px;
+  margin: 0px;
+}
+
+.name-location {
+  color: #ffffff;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.name-internship {
+  color: #ffffff;
+}
+
+.package-name {
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.location-image {
+  color: #ffffff;
+}
+
+.line-jobs {
+  width: 100%;
+  border: 1px solid #7e858e;
+}
+
+.description-name {
+  color: #ffffff;
+}
+
+.matter-description {
+  color: #ffffff;
+}
+
+.list-skills {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.list-each-skill {
+  display: flex;
+  width: 30%;
+  margin-bottom: 30px;
+}
+
+.list-name {
+  color: #ffffff;
+}
+
+.heading-description {
+  color: #ffffff;
+}
+
+.lists-container-similar {
+  display: flex;
+  width: 70%;
+  flex-wrap: wrap;
+}
+
+.heading-similar-jobs {
+  color: #ffffff;
+}
+
+.list-Similar {
+  list-style-type: none;
+  width: 30%;
+  background-color: #272727;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.container-Life {
+  display: flex;
+}
+
+.Life-heading {
+  color: #ffffff;
+}
+
+.description-Life {
+  color: #ffffff;
+}
+
+.skills-Element {
+  color: #ffffff;
+}

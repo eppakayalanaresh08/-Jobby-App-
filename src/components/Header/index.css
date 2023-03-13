@@ -1,0 +1,24 @@
+.nav-list {
+  display: flex;
+  background-color: #272727;
+  align-items: center;
+  width: 100%;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.container-nav-link {
+  display: flex;
+  width: 7%;
+  justify-content: space-between;
+}
+
+.list-name {
+  color: #ffffff;
+  list-style-type: none;
+}

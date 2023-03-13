@@ -1,0 +1,16 @@
+.label-type {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.list-Element {
+  color: #ffffff;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.check-label {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 14px;
+}

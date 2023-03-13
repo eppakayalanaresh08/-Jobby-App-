@@ -1,0 +1,10 @@
+.list-button {
+  display: flex;
+  align-items: center;
+}
+
+.check-label {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 14px;
+}
